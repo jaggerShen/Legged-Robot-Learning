@@ -1,4 +1,4 @@
-# stanford开源四足机器人
+# Stanford开源四足机器人
 总地址：https://stanfordstudentrobotics.org/doggo  
 8DOF-并联四足Doggo：https://github.com/Nate711/StanfordDoggoProject  
 12DOF-串联四足Pupper（更推荐MIT cheetah）：https://pupper.readthedocs.io/en/latest/  
