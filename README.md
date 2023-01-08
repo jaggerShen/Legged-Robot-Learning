@@ -42,7 +42,7 @@ https://zhuanlan.zhihu.com/p/66293702
 # 3 技术资料学习平台
 ## 3.1 培训第一阶段四足机器人目标：以小跑（trot)步态为目标的开环稳定运动(以下完成可以不涉及建模稳定分析实现机器人正常运动)
 步态整理：https://blog.csdn.net/m0_58585940/article/details/121445129  
-足端可使用的曲线1：https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247509540&idx=1&sn=ccdd2e3dd0e28219a0c41a4193c68f6e&  chksm=fbc8df40ccbf56562ebbd1cde21dd0c29396aeee460ff5bb0dc2e774ab374fc7c4410988602b&scene=27  
+足端可使用的曲线1：https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247509540&idx=1&sn=ccdd2e3dd0e28219a0c41a4193c68f6e&chksm=fbc8df40ccbf56562ebbd1cde21dd0c29396aeee460ff5bb0dc2e774ab374fc7c4410988602b&scene=27      
 足端可使用的曲线2：https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247509783&idx=1&sn=ead1c4b8490c6bce6e0b797ba8560ff3&chksm=fbc8de73ccbf5765064484893023a37a93269c434ac78cef017f7bd81112699f0cc657810306&cur_album_id=1752870662173458443&scene=189#wechat_redirect  
 运动学逆解串联腿12自由度：https://www.bilibili.com/video/av714914634/?vd_source=30216de2308cf451749cc50ccb881d29  
 运动学逆解串联腿8自由度：https://www.bilibili.com/video/BV13T4y1G7qy/?spm_id_from=333.337.search-card.all.click&vd_source=30216de2308cf451749cc50ccb881d29  
