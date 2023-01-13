@@ -8,6 +8,7 @@
 ## 1.2 MIT cheetah开源四足机器人
 实验室地址：https://biomimetics.mit.edu/  
 对MIT开源机械结构的分析（12-DOF）：https://zhuanlan.zhihu.com/p/58077049  
+MIT Cheetah开源软件：https://github.com/mit-biomimetics/Cheetah-Software  
 
 ## 1.3 国内比较好的开源入门学习平台——灯哥开源
 B站：https://space.bilibili.com/493192058/  
