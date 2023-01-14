@@ -54,7 +54,7 @@ https://zhuanlan.zhihu.com/p/66293702
 一小时入门：https://www.bilibili.com/video/BV11V411f7ko/?spm_id_from=333.337.search-card.all.click&vd_source=30216de2308cf451749cc50ccb881d29  
 【优先学习】利用webot内环境搭建12自由度串联四足：https://zhuanlan.zhihu.com/p/527344782  
 【最终使用】从SW等建模软件导入的一种方法：https://www.guyuehome.com/36794  
-Webot官网学习文档：https://zhuanlan.zhihu.com/p/527344782  
+Webot官网学习文档：https://cyberbotics.com/doc/reference/nodes-and-functions?version=R2020b  
 
 Webot控制器函数介绍：https://zhuanlan.zhihu.com/p/406419561?utm_id=0  
 
