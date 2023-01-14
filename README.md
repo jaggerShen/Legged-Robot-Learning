@@ -57,7 +57,7 @@ https://zhuanlan.zhihu.com/p/66293702
 
 Webots官网文档：https://cyberbotics.com/doc/reference/nodes-and-functions?version=R2020b  
 webots采用ODE动力学开源引擎，ODE官方文档：http://ode.org/wiki/index.php?title=Manual  
-                            翻译版本：https://www.cnblogs.com/muxi/archive/2012/03/11/ode.html  
+                                翻译版本：https://www.cnblogs.com/muxi/archive/2012/03/11/ode.html  
 Webots搭建物理模基础知识：https://zhuanlan.zhihu.com/p/450667444  
 Webots控制器函数介绍：https://zhuanlan.zhihu.com/p/406419561?utm_id=0  
 
