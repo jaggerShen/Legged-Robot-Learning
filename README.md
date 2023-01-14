@@ -50,12 +50,15 @@ https://zhuanlan.zhihu.com/p/66293702
 运动学逆解并联腿8自由度：https://blog.csdn.net/qq_44757551/article/details/106287696  
 
 ## 3.2 Webots仿真试验平台学习
-### 从控制仿真的角度讲（更关注接触效果，仿真原理）推荐Webot和Gazebo
+### 从控制仿真的角度讲（更关注接触效果，仿真原理）推荐Webots和Gazebo
 一小时入门：https://www.bilibili.com/video/BV11V411f7ko/?spm_id_from=333.337.search-card.all.click&vd_source=30216de2308cf451749cc50ccb881d29  
-【优先学习】利用webot内环境搭建12自由度串联四足：https://zhuanlan.zhihu.com/p/527344782  
+【优先学习】利用webots内环境搭建12自由度串联四足：https://zhuanlan.zhihu.com/p/527344782  
 【最终使用】从SW等建模软件导入的一种方法：https://www.guyuehome.com/36794  
-Webot官网学习文档：https://cyberbotics.com/doc/reference/nodes-and-functions?version=R2020b  
 
-Webot控制器函数介绍：https://zhuanlan.zhihu.com/p/406419561?utm_id=0  
+Webots官网文档：https://cyberbotics.com/doc/reference/nodes-and-functions?version=R2020b  
+webots采用ODE动力学开源引擎，ODE官方文档：http://ode.org/wiki/index.php?title=Manual  
+                            翻译版本：https://www.cnblogs.com/muxi/archive/2012/03/11/ode.html  
+Webots搭建物理模基础知识：https://zhuanlan.zhihu.com/p/450667444  
+Webots控制器函数介绍：https://zhuanlan.zhihu.com/p/406419561?utm_id=0  
 
 # 4 基础知识学习平台
